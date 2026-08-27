@@ -1,0 +1,25 @@
+{
+  "name": "babor.sia",
+  "version": "1.0.0",
+  "description": "activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hycinthbabor44444/Babor-SIA.git"
+  },
+  "keywords": [
+    "sia"
+  ],
+  "author": "hycinth babor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hycinthbabor44444/Babor-SIA/issues"
+  },
+  "homepage": "https://github.com/hycinthbabor44444/Babor-SIA#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
